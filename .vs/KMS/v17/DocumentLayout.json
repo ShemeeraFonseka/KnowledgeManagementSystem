@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DCSD\\Final Project\\KMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7195B-F7A3-44B1-885F-DC221489EA42}|KMS.csproj|d:\\dcsd\\final project\\kms\\prof11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E7195B-F7A3-44B1-885F-DC221489EA42}|KMS.csproj|solutionrelative:prof11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7195B-F7A3-44B1-885F-DC221489EA42}|KMS.csproj|d:\\dcsd\\final project\\kms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E7195B-F7A3-44B1-885F-DC221489EA42}|KMS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7195B-F7A3-44B1-885F-DC221489EA42}|KMS.csproj|d:\\dcsd\\final project\\kms\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A7E7195B-F7A3-44B1-885F-DC221489EA42}|KMS.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7195B-F7A3-44B1-885F-DC221489EA42}|KMS.csproj|d:\\dcsd\\final project\\kms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E7195B-F7A3-44B1-885F-DC221489EA42}|KMS.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7195B-F7A3-44B1-885F-DC221489EA42}|KMS.csproj|d:\\dcsd\\final project\\kms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E7195B-F7A3-44B1-885F-DC221489EA42}|KMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7195B-F7A3-44B1-885F-DC221489EA42}|KMS.csproj|d:\\dcsd\\final project\\kms\\12tu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7E7195B-F7A3-44B1-885F-DC221489EA42}|KMS.csproj|solutionrelative:12tu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prof11.cs",
+              "DocumentMoniker": "D:\\DCSD\\Final Project\\KMS\\prof11.cs",
+              "RelativeDocumentMoniker": "prof11.cs",
+              "ToolTip": "D:\\DCSD\\Final Project\\KMS\\prof11.cs",
+              "RelativeToolTip": "prof11.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAuwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:05:24.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\DCSD\\Final Project\\KMS\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\DCSD\\Final Project\\KMS\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:05:14.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\DCSD\\Final Project\\KMS\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "D:\\DCSD\\Final Project\\KMS\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-29T06:05:09.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\DCSD\\Final Project\\KMS\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\DCSD\\Final Project\\KMS\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:05:02.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DCSD\\Final Project\\KMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\DCSD\\Final Project\\KMS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:04:51.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "12tu2.cs [Design]",
+              "DocumentMoniker": "D:\\DCSD\\Final Project\\KMS\\12tu2.cs",
+              "RelativeDocumentMoniker": "12tu2.cs",
+              "ToolTip": "D:\\DCSD\\Final Project\\KMS\\12tu2.cs [Design]",
+              "RelativeToolTip": "12tu2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:01:55.96Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

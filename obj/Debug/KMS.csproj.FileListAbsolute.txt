@@ -1,0 +1,78 @@
+C:\Users\Acer\source\repos\KMS\bin\Debug\KMS.exe.config
+C:\Users\Acer\source\repos\KMS\bin\Debug\KMS.exe
+C:\Users\Acer\source\repos\KMS\bin\Debug\KMS.pdb
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Course.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.courseContent.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.enrollCourse.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Form1.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Form2.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.PractiseExam.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Properties.Resources.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Tutorial2.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Tutorials.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.exe
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.pdb
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS._12pe1.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS._12tu2.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Login.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.prof11.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.T2001.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.t1p1.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.e1.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.score.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Congrats.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Certificate.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.CourseNames.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Ename.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.repeat.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Congrats2.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Course2.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.courseContent2.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.e2.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.enrollCourse2.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.prof22.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Certificate2.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Ename2.resources
+C:\Users\Acer\source\repos\KMS\obj\Debug\KMS.Repeat2.resources
+D:\DCSD\Final Project\KMS\bin\Debug\KMS.exe.config
+D:\DCSD\Final Project\KMS\bin\Debug\KMS.exe
+D:\DCSD\Final Project\KMS\bin\Debug\KMS.pdb
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.csproj.AssemblyReference.cache
+D:\DCSD\Final Project\KMS\obj\Debug\KMS._12pe1.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS._12tu2.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Certificate.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Certificate2.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Congrats.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Congrats2.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Course.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Course2.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.courseContent.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.courseContent2.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.CourseNames.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.e1.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.e2.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Ename.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Ename2.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.enrollCourse.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.enrollCourse2.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Form1.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Form2.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Login.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.PractiseExam.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.prof11.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.prof22.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Properties.Resources.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.repeat.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Repeat2.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.score.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.t1p1.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.T2001.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Tutorial2.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.Tutorials.resources
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.csproj.GenerateResource.cache
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.csproj.CoreCompileInputs.cache
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.exe
+D:\DCSD\Final Project\KMS\obj\Debug\KMS.pdb
